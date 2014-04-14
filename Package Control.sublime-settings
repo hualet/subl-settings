@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FileBrowser",
+		"FileSystem Autocompletion",
+		"GitGutter",
+		"Pretty JSON",
+		"QML",
+		"SideBarEnhancements",
+		"SublimeGit"
+	]
+}
