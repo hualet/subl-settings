@@ -15,5 +15,8 @@
 	[
 		"Vintage"
 	],
-	"rulers": [80],
+	"rulers":
+	[
+		80
+	]
 }
