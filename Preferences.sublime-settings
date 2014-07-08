@@ -10,8 +10,11 @@
 	"auto_find_in_selection": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_face": "Monaco",
+	"font_options":
+	[
+		"no_round"
+	],
 	"font_size": 16,
-	"font_options": ["no_round"],
 	"highlight_line": true,
 	"ignored_packages":
 	[
