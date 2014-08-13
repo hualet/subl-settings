@@ -23,5 +23,6 @@
 	"rulers":
 	[
 		80
-	]
+	],
+	"trim_trailing_white_space_on_save": true
 }
