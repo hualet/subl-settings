@@ -1,0 +1,19 @@
+[
+// FileBrowser
+	{
+		"keys": ["f1"],
+		"command": "dired",
+		"args": {"immediate": true}
+	},
+
+// word case convert
+	{ "keys": ["ctrl+k", "ctrl+s"], "command": "swap_case" },
+	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+
+// auto indent
+	{ "keys": ["f2"], "command": "reindent"},
+
+// goto settings
+	// this key binding is overrided by emmet, we change it back here
+	{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+]

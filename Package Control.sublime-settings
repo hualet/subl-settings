@@ -1,14 +1,17 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"Anaconda",
 		"CTags",
 		"Emmet",
 		"FileBrowser",
 		"FileSystem Autocompletion",
 		"GitGutter",
 		"GoSublime",
+		"Package Control",
 		"Pretty JSON",
 		"QML",
 		"SideBarEnhancements",
